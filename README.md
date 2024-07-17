@@ -1,2 +1,2 @@
-# AWS-Devops-
-This Repository consist AWS &amp; Devops Projects.
+# AWS-Devops-Project
+This Repository consist AWS & Devops Projects.
